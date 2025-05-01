@@ -6,4 +6,5 @@ Build a responsive and functional dashboard for managing educational courses usi
 The system should allow the user to create, read, update, and delete courses.
 
 ##Live Demo
-Website Demo[https://courses-dashboard-youssefmo-22s-projects.vercel.app/]
+
+[Website Demo][https://courses-dashboard-youssefmo-22s-projects.vercel.app/]
